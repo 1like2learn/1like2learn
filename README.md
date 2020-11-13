@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 😄 Pronouns: He / Him
+
+- ⚡ Fun fact: Staves off the inevitable embrace of boredom by picking up a new hobby, from knitting, to unicycling, or lock picking. 
+
+- 📫 How to reach me: ndespained@gmail.com
+
 <!--
 **1like2learn/1like2learn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +16,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
