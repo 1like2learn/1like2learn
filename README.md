@@ -6,6 +6,8 @@
 
 - 📫 How to reach me: ndespained@gmail.com
 
+- 🔭 Favorite Languages: Python Javascript Java
+
 <!--
 **1like2learn/1like2learn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
