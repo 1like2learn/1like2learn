@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 😄 Pronouns: He / Him
+- 😄  Pronouns: He / Him
 
-- ⚡ Fun fact: Staves off the inevitable embrace of boredom by picking up a new hobby, from knitting, to unicycling, or lock picking. 
+- ⚡  Fun fact: Staves off the inevitable embrace of boredom by picking up a new hobby, from knitting, to unicycling, or lock picking. 
 
-- 📫 How to reach me: ndespained@gmail.com
+- 📫  How to reach me: ndespained@gmail.com
 
-- 🔭 Favorite Languages: Python Javascript Java
+- 🔭  Favorite Languages: Python Javascript Java
 
 <!--
 **1like2learn/1like2learn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
